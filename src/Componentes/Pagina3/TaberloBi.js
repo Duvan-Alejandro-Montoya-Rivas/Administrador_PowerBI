@@ -1,11 +1,13 @@
 import React from "react";
 
 const Pagina3 = () => {
+    
+
     return (
         <div className="container">
             <div className="row mt-5">
                 <div className="col-6">
-                    <table className="table table-light table-striped">
+                    <table className="table table-light table-striped" >
                         <thead class="table-dark">
                             <tr>
                                 <th scope="col">#</th>
