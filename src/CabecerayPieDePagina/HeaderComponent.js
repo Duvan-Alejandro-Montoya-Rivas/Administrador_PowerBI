@@ -4,8 +4,9 @@ const HeaderComponent = () => {
     const estiloHeader = {
         backgroundColor: '#164194', 
         color: 'white', 
-        borderRadius: '  0,1% 0 20 0%',
-        alignItems: 'center',
+        borderRadius: '  20px',
+        opacity: '100%',
+
     };
 
     return (
